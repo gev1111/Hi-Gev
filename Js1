@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Gevorg Hovakimyan </title>
+       
+        </head>
+<body>
+<script> var x=+prompt("Введите первое число", "")
+var y=+prompt("Введите второе число", "")
+alert (x+y);
+</script>
+</body>
+</html>
